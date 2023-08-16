@@ -5,6 +5,10 @@ The best checkpoint and associated files are here: [model_training-test4.py](htt
 
 Here is more information about Miipher and through process behind it: [Presentation](https://docs.google.com/presentation/d/1DbGY9jIiA8Gj6l3yPbz9z3JfDsNTqOHB59Fs_dq-DrM/edit?usp=sharing)
 
+
+Here are some general notes on [SOTA techniques](https://docs.google.com/document/d/1JGwh8YdrtCTJpfHypn6vUG1Jn8HyIBXotkGXMsK72ko/edit?usp=sharing) used out there. 
+
+
 ## Methodology
 There are 3 components that Miipher uses that we need to replace: 
 - PNG-BERT - represents linguistic information 
