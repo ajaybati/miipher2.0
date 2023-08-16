@@ -3,6 +3,8 @@ Miipher2.0 is a custom implementation of the feature cleaner seen in [Miipher](h
 
 The best checkpoint and associated files are here: [model_training-test4.py](https://github.com/ajaybati/miipher2.0/blob/main/model_training-test4.py), [dataloading_test1.py](https://github.com/ajaybati/miipher2.0/blob/main/dataloading_test1.py), and the associated tensorboard outputs: [tb_test4](https://github.com/ajaybati/miipher2.0/tree/main/tb_test4/miipher2). The checkpoint is available in google drive here: [Best checkpoints](https://drive.google.com/drive/folders/1ak6S3zPv-B0R8GXE-oKYWVJgf4ISNRG6?usp=sharing). CheckpointTest4.zip has the lower test loss but CheckpointTest4-iter3.zip has lower train loss.
 
+Here is more information about Miipher and through process behind it: [Presentation](https://docs.google.com/presentation/d/1DbGY9jIiA8Gj6l3yPbz9z3JfDsNTqOHB59Fs_dq-DrM/edit?usp=sharing)
+
 ## Methodology
 There are 3 components that Miipher uses that we need to replace: 
 - PNG-BERT - represents linguistic information 
